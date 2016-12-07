@@ -32,7 +32,11 @@ h3 {
 }
 
 /*"The Classy Roommate"*/
-
+#audrey {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 
 /*"The Neurotic New Yorker"*/
 
